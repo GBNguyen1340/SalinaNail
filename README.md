@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a website for nail shops in the US, I make this by Next.js cause I just want to practice with Next.js. You can use this template for your shop if you want :) 
 
 ## Getting Started
 
